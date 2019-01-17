@@ -1,3 +1,3 @@
 # firstproject
 practice purpose
-exploring git
+exploring git.
